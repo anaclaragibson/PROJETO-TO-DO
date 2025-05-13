@@ -1,0 +1,22 @@
+{
+    "editor.fontSize": 14,
+    "editor.letterSpacing": 0.5,
+    "editor.lineHeight": 24,
+    "editor.autoIndent": "advanced",
+    "editor.snippetSuggestions": "bottom",
+
+
+    "intelephense.format.enable": true,
+    "intelephense.completion.triggerParamenterHints": true,
+    "intelephense.completion.fullyQualifyGlobalConstantAndFunctions": true,
+    "intelephense.completion.insertUseDeclaration": true,
+    "intelephense.trace.server": "messages",
+
+    "blade.format.enable": true,
+    "[blade]": {
+        "editor.autoClosingBrackets": "always",
+        "editor.defaultFormatter": "onecentlin.laravel-blade",
+    },
+
+
+}
